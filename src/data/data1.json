@@ -1,0 +1,11 @@
+[
+  {
+    "CountryCode": [{ "91": "India" }, { "61": "Australia" }],
+    "States": [
+      {
+        "India": ["Karnataka", "Delhi", "Maharashtra", "TamilNadu"],
+        "Australia": ["Queensland", "Tasmania", "Victoria"]
+      }
+    ]
+  }
+]

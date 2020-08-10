@@ -1,0 +1,142 @@
+[
+  {
+    "country": "India",
+    "population": 5000,
+    "populationbygender": [
+      {
+        "male": 3000
+      },
+      {
+        "female": 2000
+      }
+    ],
+    "populationbyage": [
+      {
+        "18": 1000
+      },
+      {
+        "30": 1000
+      },
+      {
+        "50": 3000
+      }
+    ],
+    "TotalVechilescount": 8000,
+    "Vechilecountbysector": [
+      {
+        "Public": 5000
+      },
+      {
+        "Private": 2500
+      },
+      {
+        "others": 500
+      }
+    ]
+  },
+  {
+    "country": "China",
+    "population": 8000,
+    "populationbygender": [
+      {
+        "male": 6000
+      },
+      {
+        "female": 2000
+      }
+    ],
+    "populationbyage": [
+      {
+        "18": 2000
+      },
+      {
+        "30": 2000
+      },
+      {
+        "50": 4000
+      }
+    ],
+    "TotalVechilescount": 4000,
+    "Vechilecountbysector": [
+      {
+        "Public": 1000
+      },
+      {
+        "Private": 2000
+      },
+      {
+        "others": 1000
+      }
+    ]
+  },
+  {
+    "country": "UAE",
+    "population": 7000,
+    "populationbygender": [
+      {
+        "male": 3000
+      },
+      {
+        "female": 4000
+      }
+    ],
+    "populationbyage": [
+      {
+        "18": 1000
+      },
+      {
+        "30": 3000
+      },
+      {
+        "50": 3000
+      }
+    ],
+    "TotalVechilescount": 10000,
+    "Vechilecountbysector": [
+      {
+        "Public": 5000
+      },
+      {
+        "Private": 2500
+      },
+      {
+        "others": 2500
+      }
+    ]
+  },
+  {
+    "country": "UK",
+    "population": 12000,
+    "populationbygender": [
+      {
+        "male": 7500
+      },
+      {
+        "female": 4500
+      }
+    ],
+    "populationbyage": [
+      {
+        "18": 6000
+      },
+      {
+        "30": 2000
+      },
+      {
+        "50": 4000
+      }
+    ],
+    "TotalVechilescount": 2000,
+    "Vechilecountbysector": [
+      {
+        "Public": 500
+      },
+      {
+        "Private": 1000
+      },
+      {
+        "others": 1000
+      }
+    ]
+  }
+]
